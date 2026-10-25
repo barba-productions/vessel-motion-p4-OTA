@@ -2,8 +2,8 @@
     "schema":  1,
     "product":  "vessel-motion-p4",
     "architecture":  "esp32p4",
-    "version":  "1.0.1",
-    "size":  1209312,
-    "sha256":  "f752d0617743b914040df30d84dedfc1653e35ff8173c82d7022ce38f5f1b982",
+    "version":  "1.0.2",
+    "size":  1209664,
+    "sha256":  "e283b50f24e0ec99a46de467047c151ba0b88b54391ce831e7296672027c90f9",
     "url":  "https://raw.githubusercontent.com/barba-productions/vessel-motion-p4-OTA/main/stable/vessel_motion_p4.bin"
 }
